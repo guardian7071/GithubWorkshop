@@ -1,2 +1,5 @@
 Ignore Example/ignored.md
 Ignore Example/badfolder
+
+# FolderName/SubFolderName/file
+Ignore Example/badfile.md
